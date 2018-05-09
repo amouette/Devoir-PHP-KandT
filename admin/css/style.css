@@ -1,0 +1,76 @@
+
+
+body {
+    background-color: #E0EBE9;
+    font-family: 'Roboto';
+}
+
+.formulaire {
+    font-family: 'Roboto';
+    width: 40%;
+    padding: 1%;
+    margin: 10vh auto;
+    background-color: #0DAC7C;
+    border: 3px solid black;
+}
+
+
+
+.formulaire input, select {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.title {
+    height: 5vh;
+    margin-left: 10%;
+    font-size: 1.5em;
+}
+
+.annonceTitle {
+    width: 40%;
+    margin : 0 40% 1vh 10%;
+    height: 3vh;
+}
+
+.annonceResume {
+
+    margin : 0 10% 1vh 10%;
+    font-size: 1.2em;
+    font-family: 'Roboto';
+}
+
+
+
+.envoie {
+    width: 15%;
+    margin-left:10%;
+}
+.search-announce p{
+  color: white;
+margin-top: 10px;
+}
+.published-announce p{
+  color: white;
+  font-size: 10px;
+  margin-top: 10px;
+
+}
+.header{
+    width: 100%;
+    height: 121px;
+    background-color: #0DAC7C;
+    box-shadow: 0px 2px 6px black;
+    display: flex;
+  }
+
+.paragraphe {
+  border-radius: 40px;
+  width: 100%;
+  background-color: #E0EBE9;
+  border : 3px solid black;
+}
+.flex{
+  padding: 15px;
+  display: flex;
+}
